@@ -13,3 +13,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 |---|-------|----------|------------|
 | 1 | TwoSum | [Java](./TwoSum.java) | Easy |
 | 2 | 3Sum | [Java](./3Sum.java) | Medium |
+| 3 | 4Sum | [Java](./4Sum.java) | Medium |
