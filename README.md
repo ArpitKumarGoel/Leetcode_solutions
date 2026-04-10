@@ -11,5 +11,5 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
-| 1 | Two Sum | [Java](./TwoSum.java) | Easy |
+| 1 | TwoSum | [Java](./TwoSum.java) | Easy |
 | 2 | 3Sum | [Java](./3Sum.java) | Medium |
