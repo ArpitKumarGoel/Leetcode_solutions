@@ -16,3 +16,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 3 | 4Sum | [Java](./4Sum.java) | Medium |
 | 4 | 3Sum Closest | [Java](./3SumClosest.java) | Medium |
 | 5| Container With Most Water | [Java](./ContainerWithMostWater.java) | Medium |
+| 6 | Rotate Array | [Java](./RotateArray.java) | Medium |
