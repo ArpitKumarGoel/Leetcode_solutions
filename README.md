@@ -20,3 +20,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 7 | Rotate Image | [Java](./RotateImage.java) | Medium |
 | 8 | N-Queens | [Java](./N-Queens.java) | Hard |
 | 9 | Reverse vowels of a String | [Java](./ReverseVowelsOfAString.java) | Easy |
+| 10 | Reverse only Letters | [Java](./ReverseOnlyLetters.java) | Easy |
