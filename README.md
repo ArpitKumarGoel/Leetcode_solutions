@@ -11,7 +11,7 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
-| 1 | [TwoSum](https://leetcode.com/problems/two-sum/) | [Java](TwoSum.java) | Easy |
+| 1 | TwoSum | [Java](TwoSum.java) | Easy |
 | 2 | 3Sum | [Java](./3Sum.java) | Medium |
 | 3 | 4Sum | [Java](./4Sum.java) | Medium |
 | 4 | 3Sum Closest | [Java](./3SumClosest.java) | Medium |
