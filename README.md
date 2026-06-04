@@ -18,6 +18,6 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 5| Container With Most Water | [Java](./ContainerWithMostWater.java) | Medium |
 | 6 | Rotate Array | [Java](./RotateArray.java) | Medium |
 | 7 | Rotate Image | [Java](./RotateImage.java) | Medium |
-| 8 | N-Queens | [Java](./N-Queens.java) | Hard |
+| 8 | NQueens | [Java](./NQueens.java) | Hard |
 | 9 | Reverse vowels of a String | [Java](./ReverseVowelsOfAString.java) | Easy |
 | 10 | Reverse only Letters | [Java](./ReverseOnlyLetters.java) | Easy |
