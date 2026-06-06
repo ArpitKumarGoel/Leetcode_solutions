@@ -22,4 +22,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 9 | Reverse vowels of a String | [Java](./ReverseVowelsOfAString.java) | Easy |
 | 10 | Reverse only Letters | [Java](./ReverseOnlyLetters.java) | Easy |
 | 11 | Index of first occurrence in String | [Java](./IndexOfFirstOccurrenceInString.java) | Easy |
-
+| 12 | Sort an Array | [Java](./SortAnArray.java) | Medium |
