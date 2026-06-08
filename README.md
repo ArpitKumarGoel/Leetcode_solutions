@@ -24,3 +24,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 11 | Index of first occurrence in String | [Java](./IndexOfFirstOccurrenceInString.java) | Easy |
 | 12 | Sort an Array | [Java](./SortAnArray.java) | Medium |
 | 13 | Search in rotated sorted Array  | [Java](./SearchInRotatedSortedArray.java) | Medium |
+| 14 | Reverse Linked List | [Java](./ReverseLinkedList.java) | Easy |
