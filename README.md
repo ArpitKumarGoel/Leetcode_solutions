@@ -28,3 +28,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 15 | Palindrome Linked List | [Java](./PalindromeLinkedList.java) | Easy |
 | 16 | Linked List Cycle | [Java](./LinkedListCycle.java) | Easy |
 | 17 | Sort Linked List | [Java](./SortLinkedList.java) | Medium |
+| 18 | Merge two Sorted List | [Java](./MergeTwoSortedList.java) | Easy |
