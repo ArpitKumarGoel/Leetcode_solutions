@@ -32,3 +32,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 19 | Remove Nth node from end of  List | [Java](./RemoveNthNodeFromEnd.java) | Medium |
 | 20 | Reorder List | [Java](./ReorderList.java) | Medium |
 | 21 | Next greater element | [Java](./NextGreaterElement.java) | Medium |
+| 22 | Binary Search | [Java](BinarySearch.java) | Easy |
