@@ -33,3 +33,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 20 | Reorder List | [Java](./ReorderList.java) | Medium |
 | 21 | Next greater element | [Java](./NextGreaterElement.java) | Medium |
 | 22 | Binary Search | [Java](BinarySearch.java) | Easy |
+| 23 | Basic Calculator | [Java](./BasicCalculator.java) | Medium |
