@@ -34,3 +34,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 21 | Next greater element | [Java](./NextGreaterElement.java) | Medium |
 | 22 | Binary Search | [Java](BinarySearch.java) | Easy |
 | 23 | Basic Calculator | [Java](./BasicCalculator.java) | Medium |
+| 24 | Rotting Oranges | [Java](./RottingOranges.java) | Medium |
