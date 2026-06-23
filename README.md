@@ -36,3 +36,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 23 | Basic Calculator | [Java](./BasicCalculator.java) | Medium |
 | 24 | Rotting Oranges | [Java](./RottingOranges.java) | Medium |
 | 25 | Clear Digits | [Java](ClearDigits.java) | Easy |
+| 26 | Remove Duplicate letters | [Java](./RemoveDuplicatesLetters.java) | Medium |
