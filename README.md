@@ -37,4 +37,5 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 24 | Rotting Oranges | [Java](./RottingOranges.java) | Medium |
 | 25 | Clear Digits | [Java](ClearDigits.java) | Easy |
 | 26 | Remove Duplicate letters | [Java](./RemoveDuplicatesLetters.java) | Medium |
-| 27 | Monotonic Array | [Java](MonotonicArray.java) | Easy 
+| 27 | Monotonic Array | [Java](MonotonicArray.java) | Easy |
+| 28 | Path Sum | [Java](PathSum.java) | Medium |
