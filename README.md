@@ -41,3 +41,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 28 | Path Sum | [Java](PathSum.java) | Medium |
 | 29 | Same Tree| [Java](SameTree.java) | Easy |
 | 30 | Maximum Depth of Binary Tree | [Java](MaximumDepthOfBinaryTree.java) | Easy |
+| 31 | Merge Two Binary Trees | [Java](MergeTwoBinaryTrees.java) | Easy |
