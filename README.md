@@ -43,3 +43,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 30 | Maximum Depth of Binary Tree | [Java](MaximumDepthOfBinaryTree.java) | Easy |
 | 31 | Merge Two Binary Trees | [Java](MergeTwoBinaryTrees.java) | Easy |
 | 32 | Minimum Depth of Binary Tree | [Java](MinimumDepthOfBinaryTree.java) | Easy |
+| 33 | Rotate List | [Java](RotateList.java) | Medium |
