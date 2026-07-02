@@ -45,3 +45,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 32 | Minimum Depth of Binary Tree | [Java](MinimumDepthOfBinaryTree.java) | Easy |
 | 33 | Rotate List | [Java](RotateList.java) | Medium |
 | 34 | Longest Substring Without Repeatng Characters | [Java](LongestSubstringWithoutRepeatngCharacters.java) | Medium |
+| 35 | Sqrt(x) | [Java](Sqrt(x).java) | Easy |
