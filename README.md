@@ -47,3 +47,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 34 | Longest Substring Without Repeatng Characters | [Java](LongestSubstringWithoutRepeatngCharacters.java) | Medium |
 | 35 | Sqrt(x) | [Java](Sqrt(x).java) | Easy |
 | 36 | Lowest Common Ancestor of a Binary Tree | [Java](LowestCommonAncestorOfBinaryTree.java) | Medium |
+| 37 | Count Complete Tree Nodes | [Java](CountCompleteTreeNodes.java) | Easy |
