@@ -51,3 +51,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 38 | Sum of Left Leaves | [Java](SumOfLeftLeaves.java) | Easy |
 | 39 | Convert 1D Array Into 2D Array | [Java](Convert1DArrayInto2DArray.java) | Easy |
 | 40 | Minimum Path Sum | [Java](MinimumPathSum.java) | Medium |
+| 41 | Reshape the Matrix| [Java](ReshapeTheMatrix.java) | Easy |
