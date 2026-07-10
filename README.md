@@ -52,3 +52,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 39 | Convert 1D Array Into 2D Array | [Java](Convert1DArrayInto2DArray.java) | Easy |
 | 40 | Minimum Path Sum | [Java](MinimumPathSum.java) | Medium |
 | 41 | Reshape the Matrix| [Java](ReshapeTheMatrix.java) | Easy |
+| 42 | Count Negative Numbers In Sorted Matrix | [Java](CountNegativeNumbersInSortedMatrix.java) | Easy |
