@@ -54,3 +54,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 41 | Reshape the Matrix| [Java](ReshapeTheMatrix.java) | Easy |
 | 42 | Count Negative Numbers In Sorted Matrix | [Java](CountNegativeNumbersInSortedMatrix.java) | Easy |
 | 44 | Pascal's Triangle | [Java](PascalTriangle.java) | Easy |
+| 45 | ClimbingStairs | [Java](ClimbingStairs.java) | Easy |
