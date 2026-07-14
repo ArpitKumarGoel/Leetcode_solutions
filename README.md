@@ -55,3 +55,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 42 | Count Negative Numbers In Sorted Matrix | [Java](CountNegativeNumbersInSortedMatrix.java) | Easy |
 | 44 | Pascal's Triangle | [Java](PascalTriangle.java) | Easy |
 | 45 | ClimbingStairs | [Java](ClimbingStairs.java) | Easy |
+| 46 | Zigzag Conversion | [Java](./ZigzagConversion.java) | Medium |
