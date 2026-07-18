@@ -56,3 +56,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 44 | Pascal's Triangle | [Java](PascalTriangle.java) | Easy |
 | 45 | ClimbingStairs | [Java](ClimbingStairs.java) | Easy |
 | 46 | Zigzag Conversion | [Java](./ZigzagConversion.java) | Medium |
+| 47 | Plus one | [Java](PlusOne.java) | Easy |
