@@ -57,3 +57,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 45 | ClimbingStairs | [Java](ClimbingStairs.java) | Easy |
 | 46 | Zigzag Conversion | [Java](./ZigzagConversion.java) | Medium |
 | 47 | Plus one | [Java](PlusOne.java) | Easy |
+| 48 |  Remove Linked List Elements | [Java](RemoveLinkedListElements.java) | Easy |
