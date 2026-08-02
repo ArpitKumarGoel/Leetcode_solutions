@@ -61,3 +61,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 49 | Sort Colors | [Java](SortColors.java) | Medium |
 | 50 | Concatenate Array With Reverse | [Java](ConcatenateArrayWithReverse.java) | Easy |
 | 51 |  Longest Palindromic Substring | [Java]( LongestPalindromicSubString.java) | Medium |
+| 52 | Swap Nodes in Pairs | [Java](SwapNodesInPairs.java) |  Medium |
