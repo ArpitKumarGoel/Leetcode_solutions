@@ -59,3 +59,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 47 | Plus one | [Java](PlusOne.java) | Easy |
 | 48 |  Remove Linked List Elements | [Java](RemoveLinkedListElements.java) | Easy |
 | 49 | Sort Colors | [Java](SortColors.java) | Medium |
+| 50 | Concatenate Array With Reverse | [Java](ConcatenateArrayWithReverse.java) | Easy |
