@@ -62,3 +62,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 50 | Concatenate Array With Reverse | [Java](ConcatenateArrayWithReverse.java) | Easy |
 | 51 |  Longest Palindromic Substring | [Java]( LongestPalindromicSubString.java) | Medium |
 | 52 | Swap Nodes in Pairs | [Java](SwapNodesInPairs.java) |  Medium |
+| 53 | Stone Game | [Java](StoneGame.java) | Medium |
