@@ -64,3 +64,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 52 | Swap Nodes in Pairs | [Java](SwapNodesInPairs.java) |  Medium |
 | 53 | Stone Game | [Java](StoneGame.java) | Medium |
 | 54 | Sudoku Solver | [Java](SudokuSolver.java) | Hard |
+| 55 | Next Permutation | [Java](NextPermutation.java) | Medium |
