@@ -65,3 +65,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 53 | Stone Game | [Java](StoneGame.java) | Medium |
 | 54 | Sudoku Solver | [Java](SudokuSolver.java) | Hard |
 | 55 | Next Permutation | [Java](NextPermutation.java) | Medium |
+| 56 | Guess Number higher or lower | [Java](GuessNumberHigherOrLower) | Easy |
