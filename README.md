@@ -69,3 +69,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 57 | Find Peak Element | [Java](FindPeakElement.java) | Medium |
 | 58 | Find First and Last Position of Element in Sorted Array | [Java](FindFirstAndLastPositionOfElementInSortedArray.java) | Medium |
 | 59 | Fair Candy Swap | [Java](FairCandySwap.java) | Easy |
+| 60 | Valid Perfect Square | [Java](ValidPerfectSquare.java) | Easy |
