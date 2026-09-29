@@ -72,3 +72,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 60 | Valid Perfect Square | [Java](ValidPerfectSquare.java) | Easy |
 | 61 | Number of steps to reduce a number to zero | [Java](NumberOfStepsToReduceANumberToZero.java) | Easy |
 | 62 | Kids With The Greatest Number Of Candies | [Java](KidsWithTheGreatestNumberOfCandies.java) | Easy |
+| 63 | Search a 2D Matrix | [Java](SearchA2DMatrix.java) | Medium |
