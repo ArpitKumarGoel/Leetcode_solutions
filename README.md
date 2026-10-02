@@ -76,3 +76,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 64 | Search Insert Position | [Java](SearchInsertPosition.java) | Easy |
 | 65 | Minimum Size Subarray Sum | [Java](MinimumSizeSubarraySum.java) | Medium |
 | 66 | Minimum Consecutive Cards To Pick Up | [Java](MinimumConsecutiveCardsToPickUp.java) | Medium |
+| 67 | Maximum Average Subarray 1 | [Java](MaximumAverageSubarray1.java) | Easy |
