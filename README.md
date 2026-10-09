@@ -79,3 +79,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 67 | Maximum Average Subarray 1 | [Java](MaximumAverageSubarray1.java) | Easy |
 | 68 | Maximum Number of Vowels in a Substring Of Given Length | [Java](MaximumNumberOfVowelsInASubstringOfGivenLengthSolved.java) | Medium |
 | 69 | Maximum Sum of Distinct Subarrays With Length K | [Java](MaximumSumOfDistinctSubarraysWithLengthK.java) | Medium |
+| 70 | Missing Number | [Java](MissingNumber.java) | Easy |
