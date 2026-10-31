@@ -81,3 +81,4 @@ Welcome to my repository! Here, I maintain my solutions to various LeetCode prob
 | 69 | Maximum Sum of Distinct Subarrays With Length K | [Java](MaximumSumOfDistinctSubarraysWithLengthK.java) | Medium |
 | 70 | Missing Number | [Java](MissingNumber.java) | Easy |
 | 71 | Subarray Product less than k | [Java](SubarrayProductLessThanK.java) | Medium |
+| 72 | Binary Subarrays with sum | [Java|(BinarySubarraysWithSum.java | Medium |
